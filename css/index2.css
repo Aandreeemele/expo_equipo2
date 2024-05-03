@@ -1,0 +1,215 @@
+/*cuadro-papa*/
+.do{
+    width: 45rem;
+    height: 34rem;
+    margin: auto;
+    
+}
+/*header-inicio*/
+.h_ini{
+    width: 45rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: auto;
+    border: 1px solid black;
+}
+.rra{
+    width: 35rem;
+    height: 2.5rem;
+
+    position: relative;
+    top: 1rem;
+    left: 3rem;
+}
+.l1{
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(206, 208, 214);
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid black;
+    
+
+    position: relative;
+    top: 0.5rem;
+    left: 3rem;
+}
+.l2{
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid black;
+    background-color: rgb(151, 166, 209);
+    
+    position: relative;
+    top: -1.1rem;
+    left: 8rem;
+
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.l3{
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid black;
+    background-color: rgb(206, 208, 214);
+
+    position: relative;
+    top: -2.7rem;
+    left: 13rem;
+
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.l4{
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid black;
+    background-color: rgb(151, 166, 209);
+
+    position: relative;
+    top: -4.2rem;
+    left: 18rem;
+
+}
+.lh{
+    width: 10rem;
+    height: 1rem;
+    border-radius: 1rem;
+    border: 1px solid black;
+    
+    position: relative;
+    top: -5.5rem;
+    left: 22rem;
+
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lsh{
+    position: relative;
+    left: -2.5rem;
+}
+.xs{
+    width: 5rem;
+    height: 2rem;
+    position: relative;
+    top: -7.2rem;
+    left: 33.5rem;
+}
+.m{
+    width: 6rem;
+    height: 4.5rem;
+    position: relative;
+    top: -1.2rem;
+
+}
+/*cuadro-lateral*/
+.al{
+    width: 8rem;
+    height: 22.5rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    top: 0.5rem;
+    left: 0.3rem;
+    background-color: white;
+
+}
+.rm{
+    font-size: 1rem;
+    position: relative;
+    top: 2.5rem;
+    left: 2.5rem;
+}
+/*cuadro-donde-va-informacion*/
+.rm1{
+    width: 36rem;
+    height: 22.5rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    top: -22rem;
+    left: 8.7rem;
+    background-color: white;
+}
+.rm2{
+    font-size: 1rem;
+    position: relative;
+    top: 1.2rem;
+    left: 1.2rem;
+}
+.rm3{
+    font-size: 0.8rem;
+    position: relative;
+    top: 1rem;
+    left: 1.2rem;
+}
+.rm4{
+    font-size: 1rem;
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+}
+.r5{
+    font-size: 0.8rem;
+    position: relative;
+    top: 0.5rem;
+    left: 1rem;
+}
+.r6{
+    font-size: 0.8rem;
+    position: relative;
+    top: -5.8rem;
+    left: 14rem;
+}
+.m1{
+    width: 12rem;
+    height: 7rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    top: -20.5rem;
+    left: 21.5rem;
+}
+.m2{
+    width: 12rem;
+    height: 7rem;
+    border-radius: 1rem;
+}
+/*header-final*/
+.m3{
+    width: 45rem;
+    height: 5rem;
+    border-radius: 1rem;
+    border: 1px solid black;
+    position: relative;
+    top: -21.3rem;
+    left: -0rem;
+    background: linear-gradient( white, white, rgb(68, 68, 245));
+
+}
+.m4{
+    width: 8rem;
+    height: 5rem;
+}
+.m5{
+    font-size: 0.6rem;
+    position: relative;
+    top: -4rem;
+    left: 14.5rem;
+  }
+  .m6{
+    font-size: 0.6rem;
+    position: relative;
+    top: -5.9rem;
+    left: 24rem;
+  }

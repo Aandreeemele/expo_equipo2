@@ -1,0 +1,215 @@
+/*cuadro-papa*/
+.en{
+    width: 45rem;
+    height: 34rem;
+    margin: auto;
+    
+}
+/*header-inicio*/
+.ini{
+    width: 45rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: auto;
+    border: 1px solid black;
+}
+.bar{
+    width: 35rem;
+    height: 2.5rem;
+
+    position: relative;
+    top: 1rem;
+    left: 3rem;
+}
+.s11{
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(206, 208, 214);
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid black;
+    
+
+    position: relative;
+    top: 0.5rem;
+    left: 3rem;
+}
+.s21{
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid black;
+    background-color: rgb(151, 166, 209);
+    
+    position: relative;
+    top: -1.1rem;
+    left: 8rem;
+
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.s31{
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid black;
+    background-color: rgb(206, 208, 214);
+
+    position: relative;
+    top: -2.7rem;
+    left: 13rem;
+
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.s41{
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid black;
+    background-color: rgb(151, 166, 209);
+
+    position: relative;
+    top: -4.2rem;
+    left: 18rem;
+
+}
+.shq{
+    width: 10rem;
+    height: 1rem;
+    border-radius: 1rem;
+    border: 1px solid black;
+    
+    position: relative;
+    top: -5.5rem;
+    left: 22rem;
+
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sh11{
+    position: relative;
+    left: -2.5rem;
+}
+.sqx{
+    width: 5rem;
+    height: 2rem;
+    position: relative;
+    top: -7.2rem;
+    left: 33.5rem;
+}
+.ig3{
+    width: 6rem;
+    height: 4.5rem;
+    position: relative;
+    top: -1.2rem;
+
+}
+/*cuadro-lateral*/
+.lat{
+    width: 8rem;
+    height: 22.5rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    top: 0.5rem;
+    left: 0.3rem;
+    background-color: white;
+
+}
+.wq{
+    font-size: 1rem;
+    position: relative;
+    top: 2.5rem;
+    left: 2.5rem;
+}
+/*cuadro-donde-va-informacion*/
+.gpu{
+    width: 36rem;
+    height: 22.5rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    top: -22rem;
+    left: 8.7rem;
+    background-color: white;
+}
+.tit1{
+    font-size: 1rem;
+    position: relative;
+    top: 1.2rem;
+    left: 1.2rem;
+}
+.par{
+    font-size: 0.8rem;
+    position: relative;
+    top: 1rem;
+    left: 1.2rem;
+}
+.tit2{
+    font-size: 1rem;
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+}
+.d11{
+    font-size: 0.8rem;
+    position: relative;
+    top: 0.5rem;
+    left: 1rem;
+}
+.d21{
+    font-size: 0.8rem;
+    position: relative;
+    top: -5.5rem;
+    left: 12rem;
+}
+.ig1{
+    width: 12rem;
+    height: 7rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    top: -20.5rem;
+    left: 21.5rem;
+}
+.ig2{
+    width: 12rem;
+    height: 7rem;
+    border-radius: 1rem;
+}
+/*header-final*/
+.final{
+    width: 45rem;
+    height: 5rem;
+    border-radius: 1rem;
+    border: 1px solid black;
+    position: relative;
+    top: -21.3rem;
+    left: -0rem;
+    background: linear-gradient( white, white, rgb(68, 68, 245));
+
+}
+.ig4{
+    width: 8rem;
+    height: 5rem;
+}
+.dvi{
+    font-size: 0.6rem;
+    position: relative;
+    top: -4rem;
+    left: 14.5rem;
+  }
+  .df1{
+    font-size: 0.6rem;
+    position: relative;
+    top: -5.9rem;
+    left: 24rem;
+  }
